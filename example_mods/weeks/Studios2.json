@@ -1,0 +1,67 @@
+{
+	"songs": [
+		[
+			"Scraps",
+			"scraps-aaron",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rhythm",
+			"nard",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Awesome",
+			"seven",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"J",
+			"rabbitdud",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Angelic",
+			"nathan",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "studiospart2",
+	"difficulties": "Hard, Superstar",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Escape",
+	"weekName": "Studios2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Studios1",
+	"startUnlocked": false
+}

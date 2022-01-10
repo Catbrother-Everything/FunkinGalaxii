@@ -1,0 +1,186 @@
+{
+	"dialogue": [
+		{
+			"expression": "condescending",
+			"text": "En...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "condescending",
+			"text": "Charlie...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "condescending",
+			"text": "What in the name of Fai are you doing?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "condescending",
+			"text": "Haven't I told you to treat guests with the utmost respect?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "worried",
+			"text": "We're so sorry Ms. Nova, but we can explai-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Yeah, 'you can explain', that’s what RIP said.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "awkward",
+			"text": "I understand.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "en"
+		},
+		{
+			"expression": "idle",
+			"text": "I'll give you until tonight to pack your things and leave.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "idle",
+			"text": "I'll wait to hear from Charlie, since she... seems to not be with us at the moment.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "apologetic",
+			"text": "Guests, I'm so sorry that these idiots treated you the way they did.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "apologetic",
+			"text": "Is there anything we can do to make it up to you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "explaining",
+			"text": "Well yes, actually!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "We need access to the servers, my girl here's parents aren't happy with one of your games.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "We were wondering if we could have it taken down?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Oh, of course!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "angry",
+			"text": "NOT.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "talk",
+			"text": "All our games are making big sales right now, we NEED this money.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "talk",
+			"text": "I wouldn't care if one of them had something that'd have Twitter lighting us up like a bunch'a twigs.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "talk",
+			"text": "I can't believe you'd even suggest that!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "confused",
+			"text": "Well, I know a way we could work this out.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "You know how I've mentioned my girl's parents?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "confused",
+			"text": "Well, I've learned a thing or two from them.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Perhaps a rap battle is in order?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "Afterall, if you can beat ME, you can prove you really are better than those employees of yours!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf-galaxii"
+		},
+		{
+			"expression": "explaining",
+			"text": "That isn't a half bad idea, kid.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		},
+		{
+			"expression": "smug",
+			"text": "Let's do this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nova"
+		}
+	]
+}

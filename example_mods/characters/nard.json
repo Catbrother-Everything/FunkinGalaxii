@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				107
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nard Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-159
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nard Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				86
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nard Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				86
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nard Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nard Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nard_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nard",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
