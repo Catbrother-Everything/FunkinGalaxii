@@ -120,7 +120,7 @@
 			"portrait": "bf-galaxii"
 		},
 		{
-			"expression": "talk",
+			"expression": "block-guy",
 			"text": "Boyfriend The Hello I've meet you been to dying.",
 			"boxState": "normal",
 			"speed": 0.05,

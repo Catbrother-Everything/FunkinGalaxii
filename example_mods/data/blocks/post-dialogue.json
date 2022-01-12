@@ -22,7 +22,7 @@
 			"portrait": "nathan"
 		},
 		{
-			"expression": "talk",
+			"expression": "angry",
 			"text": "Nathan, you WILL stop that this instant!",
 			"boxState": "normal",
 			"speed": 0.05,
