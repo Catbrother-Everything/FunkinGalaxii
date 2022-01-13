@@ -39,7 +39,7 @@
 			"speed": 0.05,
 			"portrait": "aaron",
 			"boxState": "normal",
-			"expression": "talk",
+			"expression": "forward",
 			"text": "THREAT DETECTED"
 		},
 		{
